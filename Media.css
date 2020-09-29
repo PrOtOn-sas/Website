@@ -1,0 +1,35 @@
+@media (max-width:575px) {
+    .MENU {
+        position: static;
+    }
+
+    .MENU a {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .header {
+        padding: 100px 0;
+        background-size: cover;
+        margin-top: 0;
+    }
+
+    #ABOUT {
+        width: 85%;
+        text-align: center;
+    }
+
+    #ABOUT img {
+        margin: 0;
+        float: none;
+        width: 75%
+    }
+
+    #TEAM div {
+        width: auto;
+    }
+
+    #contacts input {
+        width: auto;
+    }
+}
